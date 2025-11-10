@@ -1,8 +1,7 @@
-# Creating from a list
+
 fs1 = frozenset([1, 2, 3, 4])
 print(fs1)   
 
-# Creating from a string
 fs2 = frozenset("hello")
 print(fs2)   
 
